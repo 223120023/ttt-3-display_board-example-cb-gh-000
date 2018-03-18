@@ -1,7 +1,7 @@
 def display_board
   cells= "   "
   cellsSeparator="|"
-  stripedRow="---------"
+  stripedRow="-----------"
 
   puts cells+cellsSeparator+cells+cellsSeparator+cells
   puts stripedRow
